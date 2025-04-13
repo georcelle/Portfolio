@@ -7,64 +7,52 @@ import mock05 from '../assets/images/mock05.png';
 import mock06 from '../assets/images/mock06.png';
 import mock07 from '../assets/images/mock07.png';
 import mock08 from '../assets/images/mock08.png';
-import mock09 from '../assets/images/mock09.png';
-import mock10 from '../assets/images/mock10.png';
 import '../assets/styles/Project.scss';
 
 function Project() {
     return(
     <div className="projects-container" id="projects">
-        <h1>Personal Projects</h1>
-        <div className="projects-grid">
+        <h1>Academic and Personal Projects</h1>
+        <div className="projects-grid">          
             <div className="project">
-                <a href="https://www.filmate.club/" target="_blank" rel="noreferrer"><img src={mock10} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://www.filmate.club/" target="_blank" rel="noreferrer"><h2>Filmate AI</h2></a>
-                <p>Developed movie finder app with semantic search and sentiment analysis using OpenAI GPT-3.5 Turbo, Qdrant, React, and Flask.</p>
+                <a href="https://www.figma.com/design/UeGEh9chUPbNmdZNm9Y4vk/CACHE---Memory-Game?node-id=0-1&t=bbNojmEbd8Eif0db-1" target="_blank" rel="noreferrer"><img src={mock08} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://www.figma.com/design/UeGEh9chUPbNmdZNm9Y4vk/CACHE---Memory-Game?node-id=0-1&t=bbNojmEbd8Eif0db-1" target="_blank" rel="noreferrer"><h2>CACHE - Card Memory Game</h2></a>
+                <p>A fun and interactive 2D memory card game designed with clean UI/UX on Figma. Focused on cognitive skill enhancement and gamified learning mechanics.</p>
             </div>
             <div className="project">
-                <a href="https://yujisatojr.itch.io/highspeedchase" target="_blank" rel="noreferrer"><img src={mock09} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://yujisatojr.itch.io/highspeedchase" target="_blank" rel="noreferrer"><h2>High Speed Chase</h2></a>
-                <p>Designed, developed, and launched a 3D multiplayer racing game with C# and Unity. This is available on Itch.io for gamers worldwide to enjoy.</p>
+                <a href="https://www.figma.com/design/2pp0o53WQnegPfjrI0VJmE/Lexi-Logic?node-id=0-1&t=SnRHb8vgCTjiuALw-1" target="_blank" rel="noreferrer"><img src={mock07} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://www.figma.com/design/2pp0o53WQnegPfjrI0VJmE/Lexi-Logic?node-id=0-1&t=SnRHb8vgCTjiuALw-1" target="_blank" rel="noreferrer"><h2>Lexi Logic - Word Game</h2></a>
+                <p>A vocabulary-based educational game that challenges users to solve word puzzles under time pressure. Developed in JavaFX and designed in Figma as part of a game thesis project.</p>
             </div>
             <div className="project">
-                <a href="https://yujisatojr.itch.io/spacecraft" target="_blank" rel="noreferrer"><img src={mock08} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://yujisatojr.itch.io/spacecraft" target="_blank" rel="noreferrer"><h2>Astro Raiders</h2></a>
-                <p>Developed and released a 2D shooting game with C# and Unity. This project is hosted on the Itch.io public marketplace.</p>
+                <a href="https://www.figma.com/design/XKxUKq5ofMcQT7xP7EFho8/Exit-Interview-Portal---webdev--midterms-?node-id=0-1&t=VY9cn8LUvGmWPgId-1" target="_blank" rel="noreferrer"><img src={mock05} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://www.figma.com/design/XKxUKq5ofMcQT7xP7EFho8/Exit-Interview-Portal---webdev--midterms-?node-id=0-1&t=VY9cn8LUvGmWPgId-1" target="_blank" rel="noreferrer"><h2>Exit Interview Portal</h2></a>
+                <p>A centralized portal designed to streamline exit interviews for graduating students. Features a form-based interface and student feedback tracking system for administrators.</p>
             </div>
             <div className="project">
-                <a href="https://www.datumlearn.com/" target="_blank" rel="noreferrer"><img src={mock07} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://www.datumlearn.com/" target="_blank" rel="noreferrer"><h2>Datum: Integrated Learning Platform</h2></a>
-                <p>This is an online educational platform that provides high-quality, data science-focused learning resources in the Japanese language. I created the entire platform from scratch using Ruby on Rails.</p>
+                <a target="_blank" rel="noreferrer"><img src={mock06} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a target="_blank" rel="noreferrer"><h2>Language Mapping - Web Application</h2></a>
+                <p>A web-based visualization tool that maps languages spoken across different regions. Developed for a cultural diversity initiative, featuring a clean interactive map UI and dynamic data integration.</p>
             </div>
             <div className="project">
-                <a href="http://www.wemanage.jp/" target="_blank" rel="noreferrer"><img src={mock06} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="http://www.wemanage.jp/" target="_blank" rel="noreferrer"><h2>WeManage: Real Estate Asset Management</h2></a>
-                <p>This mobile application allows realtors in Japan to securely manage their property information and view future income predictions. This app is built with Ruby on Rails and JavaScript.</p>
+                <a href="https://www.figma.com/design/zWoWRYaPSSIIpVlrVYziyO/Stock-Pilot--comprog3-?node-id=0-1&t=6moHj2mbG4neUka2-1" target="_blank" rel="noreferrer"><img src={mock04} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://www.figma.com/design/zWoWRYaPSSIIpVlrVYziyO/Stock-Pilot--comprog3-?node-id=0-1&t=6moHj2mbG4neUka2-1" target="_blank" rel="noreferrer"><h2>Stock Pilot - Inventory Management</h2></a>
+                <p>An inventory tracking system that helps small businesses monitor product stock levels, restocking alerts, and sales records. Built using Java and MySQL with a responsive UI mockup.</p>
             </div>
             <div className="project">
-                <a href="https://www.byuh.edu/covid-19-case-management" target="_blank" rel="noreferrer"><img src={mock05} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://www.byuh.edu/covid-19-case-management" target="_blank" rel="noreferrer"><h2>COVID-19 Case Management</h2></a>
-                <p>Built official charts for COVID/vaccination tracking for an educational institution using JavaScript and the Google Sheets API v4. The dashboard served the university's leadership in their decision-making processes.</p>
+                <a href="https://www.figma.com/design/EMsEAwSFiwwWZz5zxeGg3Y/Emerzoom---Entrepreneurship?node-id=0-1&t=LIOK3jGlLOVb7bY8-1" target="_blank" rel="noreferrer"><img src={mock03} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://www.figma.com/design/EMsEAwSFiwwWZz5zxeGg3Y/Emerzoom---Entrepreneurship?node-id=0-1&t=LIOK3jGlLOVb7bY8-1" target="_blank" rel="noreferrer"><h2>Emer-Zoom</h2></a>
+                <p>A proposed application for the school’s canteen aimed at streamlining food orders and reducing wait times. Designed to help students pre-order meals and improve the overall efficiency of canteen operations. UI/UX developed in Figma as part of an entrepreneurship project.</p>
             </div>
             <div className="project">
-                <a href="https://github.com/yujisatojr/multi-reg-analysis" target="_blank" rel="noreferrer"><img src={mock04} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://github.com/yujisatojr/multi-reg-analysis" target="_blank" rel="noreferrer"><h2>Multiple Regression Property Analysis</h2></a>
-                <p>Analyzed the real estate market in Japan and predicted property prices by implementing statistical methods such as OLS and multi-regression analysis. This project leveraged Python and various libraries such as Pandas, NumPy, Matplotlib, and Scikit-Learn.</p>
+                <a href="https://www.figma.com/design/R2SNx3vjhJZsMxrWT9W6sb/webdev-SDG?node-id=0-1&t=pTpbDL4g92tmEaGI-1" target="_blank" rel="noreferrer"><img src={mock02} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://www.figma.com/design/R2SNx3vjhJZsMxrWT9W6sb/webdev-SDG?node-id=0-1&t=pTpbDL4g92tmEaGI-1" target="_blank" rel="noreferrer"><h2>SDG 6 Website</h2></a>
+                <p>Promotes awareness for Sustainable Development Goal 6 (Clean Water and Sanitation) through interactive infographics and informative sections. Designed for a web development class.</p>
             </div>
             <div className="project">
-                <a href="https://holokai.byuh.edu/programs-of-study" target="_blank" rel="noreferrer"><img src={mock03} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://holokai.byuh.edu/programs-of-study" target="_blank" rel="noreferrer"><h2>Programs of Study</h2></a>
-                <p>Designed and developed a custom component for a CMS-based platform (e.g., 'Brightspot') using Java, Handlebars, and LESS. University students can find their majors of interest through this module.</p>
-            </div>
-            <div className="project">
-                <a href="https://hookele.byuh.edu/transfer-evaluation-guidelines-and-matrix" target="_blank" rel="noreferrer"><img src={mock02} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://hookele.byuh.edu/transfer-evaluation-guidelines-and-matrix" target="_blank" rel="noreferrer"><h2>Transfer Evaluation Matrix</h2></a>
-                <p>Created an interactive CSV table generator with Java, Handlebars, and LESS. This project helps transfer students to quickly identify eligible credits.</p>
-            </div>
-            <div className="project">
-                <a href="https://github.com/yujisatojr/submeowrine" target="_blank" rel="noreferrer"><img src={mock01} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://github.com/yujisatojr/submeowrine" target="_blank" rel="noreferrer"><h2>Submeowrine</h2></a>
-                <p>Developed and released an Android mobile application using Java and Android Studio that runs a 2D shooting game.</p>
+                <a target="_blank" rel="noreferrer"><img src={mock01} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a target="_blank" rel="noreferrer"><h2>Doughy Delights</h2></a>
+                <p>Created the branding assets for a small donut business, including logo and menu design. Tools used include Canva and ibisPaint, with a focus on fun, pastel-inspired aesthetics.</p>
             </div>
         </div>
     </div>
