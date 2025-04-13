@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/georcelle/Portfolio/static/css/main.d346e487.css",
-    "main.js": "/georcelle/Portfolio/static/js/main.aa350056.js",
-    "static/js/453.f8031cbe.chunk.js": "/georcelle/Portfolio/static/js/453.f8031cbe.chunk.js",
-    "static/media/mock07.png": "/georcelle/Portfolio/static/media/mock07.9778b8db01e7f49d79d3.png",
-    "static/media/mock08.png": "/georcelle/Portfolio/static/media/mock08.a5c5871772a533f5a940.png",
-    "static/media/bg-light.png": "/georcelle/Portfolio/static/media/bg-light.bac0efb485244a522981.png",
-    "static/media/bg-dark.png": "/georcelle/Portfolio/static/media/bg-dark.f420c6b8458af72de935.png",
-    "static/media/mock01.png": "/georcelle/Portfolio/static/media/mock01.5db00f59fb5c60aad900.png",
-    "static/media/mock02.png": "/georcelle/Portfolio/static/media/mock02.8a7b5b2331a03c8d04c6.png",
-    "static/media/mock03.png": "/georcelle/Portfolio/static/media/mock03.af5cdd956d02a773119e.png",
-    "static/media/mock06.png": "/georcelle/Portfolio/static/media/mock06.6ad859ec84786271544f.png",
-    "static/media/mock04.png": "/georcelle/Portfolio/static/media/mock04.1a874922c5ef33ca8766.png",
-    "static/media/mock05.png": "/georcelle/Portfolio/static/media/mock05.ec1f026a5db7419b02cc.png",
-    "index.html": "/georcelle/Portfolio/index.html",
-    "main.d346e487.css.map": "/georcelle/Portfolio/static/css/main.d346e487.css.map",
-    "main.aa350056.js.map": "/georcelle/Portfolio/static/js/main.aa350056.js.map",
-    "453.f8031cbe.chunk.js.map": "/georcelle/Portfolio/static/js/453.f8031cbe.chunk.js.map"
+    "main.css": "./static/css/main.1383211a.css",
+    "main.js": "./static/js/main.19be685b.js",
+    "static/js/453.f8031cbe.chunk.js": "./static/js/453.f8031cbe.chunk.js",
+    "static/media/mock07.png": "./static/media/mock07.9778b8db01e7f49d79d3.png",
+    "static/media/mock08.png": "./static/media/mock08.a5c5871772a533f5a940.png",
+    "static/media/bg-light.png": "./static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/bg-dark.png": "./static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/mock01.png": "./static/media/mock01.5db00f59fb5c60aad900.png",
+    "static/media/mock02.png": "./static/media/mock02.8a7b5b2331a03c8d04c6.png",
+    "static/media/mock03.png": "./static/media/mock03.af5cdd956d02a773119e.png",
+    "static/media/mock06.png": "./static/media/mock06.6ad859ec84786271544f.png",
+    "static/media/mock04.png": "./static/media/mock04.1a874922c5ef33ca8766.png",
+    "static/media/mock05.png": "./static/media/mock05.ec1f026a5db7419b02cc.png",
+    "index.html": "./index.html",
+    "main.1383211a.css.map": "./static/css/main.1383211a.css.map",
+    "main.19be685b.js.map": "./static/js/main.19be685b.js.map",
+    "453.f8031cbe.chunk.js.map": "./static/js/453.f8031cbe.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d346e487.css",
-    "static/js/main.aa350056.js"
+    "static/css/main.1383211a.css",
+    "static/js/main.19be685b.js"
   ]
 }
