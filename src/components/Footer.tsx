@@ -10,7 +10,6 @@ function Footer() {
         <a href="https://github.com/georcelle" target="_blank" rel="noreferrer"><GitHubIcon/></a>
         <a href="https://www.linkedin.com/in/georcellenuarin/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
       </div>
-      <p>The only permanent thing in this world is change.<a href="https://github.com/yujisatojr/react-portfolio-template" target="_blank" rel="noreferrer"></a></p>
     </footer>
   );
 }
