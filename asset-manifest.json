@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/georcelle/Portfolio/static/css/main.d346e487.css",
-    "main.js": "/georcelle/Portfolio/static/js/main.534aa8f1.js",
+    "main.js": "/georcelle/Portfolio/static/js/main.99871bcd.js",
     "static/js/453.d74bae1c.chunk.js": "/georcelle/Portfolio/static/js/453.d74bae1c.chunk.js",
     "static/media/mock07.png": "/georcelle/Portfolio/static/media/mock07.9778b8db01e7f49d79d3.png",
     "static/media/mock08.png": "/georcelle/Portfolio/static/media/mock08.a5c5871772a533f5a940.png",
@@ -15,11 +15,11 @@
     "static/media/mock05.png": "/georcelle/Portfolio/static/media/mock05.ec1f026a5db7419b02cc.png",
     "index.html": "/georcelle/Portfolio/index.html",
     "main.d346e487.css.map": "/georcelle/Portfolio/static/css/main.d346e487.css.map",
-    "main.534aa8f1.js.map": "/georcelle/Portfolio/static/js/main.534aa8f1.js.map",
+    "main.99871bcd.js.map": "/georcelle/Portfolio/static/js/main.99871bcd.js.map",
     "453.d74bae1c.chunk.js.map": "/georcelle/Portfolio/static/js/453.d74bae1c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d346e487.css",
-    "static/js/main.534aa8f1.js"
+    "static/js/main.99871bcd.js"
   ]
 }
