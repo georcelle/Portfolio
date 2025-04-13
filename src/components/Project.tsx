@@ -30,8 +30,8 @@ function Project() {
                 <p>A centralized portal designed to streamline exit interviews for graduating students. Features a form-based interface and student feedback tracking system for administrators.</p>
             </div>
             <div className="project">
-                <a target="_blank" rel="noreferrer"><img src={mock06} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a target="_blank" rel="noreferrer"><h2>Language Mapping - Web Application</h2></a>
+                <a href="https://www.figma.com/design/t1j8b2sw5KdRTbUKSM3gCS/Language-Mapping---Structures-of-Programming-Languages?node-id=0-1&t=vnwkudHo3zEHlpDv-1"target="_blank" rel="noreferrer"><img src={mock06} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://www.figma.com/design/t1j8b2sw5KdRTbUKSM3gCS/Language-Mapping---Structures-of-Programming-Languages?node-id=0-1&t=vnwkudHo3zEHlpDv-1"target="_blank" rel="noreferrer"><h2>Language Mapping - Web Application</h2></a>
                 <p>A web-based visualization tool that maps languages spoken across different regions. Developed for a cultural diversity initiative, featuring a clean interactive map UI and dynamic data integration.</p>
             </div>
             <div className="project">
@@ -50,8 +50,8 @@ function Project() {
                 <p>Promotes awareness for Sustainable Development Goal 6 (Clean Water and Sanitation) through interactive infographics and informative sections. Designed for a web development class.</p>
             </div>
             <div className="project">
-                <a target="_blank" rel="noreferrer"><img src={mock01} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a target="_blank" rel="noreferrer"><h2>Doughy Delights</h2></a>
+                <a href="https://www.canva.com/design/DAFlnChVSaI/XJhMuGnlpI2J0INFu8VHUA/edit?utm_content=DAFlnChVSaI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"target="_blank" rel="noreferrer"><img src={mock01} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://www.canva.com/design/DAFlnChVSaI/XJhMuGnlpI2J0INFu8VHUA/edit?utm_content=DAFlnChVSaI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"target="_blank" rel="noreferrer"><h2>Doughy Delights</h2></a>
                 <p>Created the branding assets for a small donut business, including logo and menu design. Tools used include Canva and ibisPaint, with a focus on fun, pastel-inspired aesthetics.</p>
             </div>
         </div>
