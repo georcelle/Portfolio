@@ -21,10 +21,10 @@ function Timeline() {
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Brenda Bence</h3>
-            <h4 className="vertical-timeline-element-subtitle">Singapore - Remote</h4>
+            <h3 className="vertical-timeline-element-title">Virual Assistant</h3>
+            <h4 className="vertical-timeline-element-subtitle">Remote</h4>
             <p>
-              Confidential Information Handling, Administrative Support, Website Content Creation, Executive Schedule Management
+            Organizing confidential client data using Excel spreadsheets, Preparing slides for client updates, Creating posts for client's social media accounts
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
@@ -33,7 +33,7 @@ function Timeline() {
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faHammer} />}
           >
-            <h3 className="vertical-timeline-element-title">Villar General Contruction and Supplies</h3>
+            <h3 className="vertical-timeline-element-title">Villar General Construction and Supplies</h3>
             <h4 className="vertical-timeline-element-subtitle">Urdaneta, Pangasinan</h4>
             <p>
               Document Management, Office Coordination, Data Optimization, Team Collaboration
